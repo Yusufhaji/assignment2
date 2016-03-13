@@ -118,7 +118,7 @@ Where ; y ≡ Y/AL  , k ≡ K/AL  and h ≡ H/AL
 
 The production function in intensive form is :
 
-$y= k^∝ h^β $ 
+$y= k^∝ h^β$ 
 
 Savings: 
 
