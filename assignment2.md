@@ -11,7 +11,7 @@ Where y ≡ Y/AL  is the output per effective worker
 Since  y^* is the steady state level of income per effective worker and ; y(t) is the actual value of output per effective worker at time t.
 Convergence in the Solow model is arrived at by taking a first order Taylor expansion of output around the steady state level gives : 
 
-$\frac{(d[lny(t)-lny^*])}{dt}=-λ[lny(t)-lny^*]$
+$(d[lny(t)-lny^*])/dt=-λ[lny(t)-lny^*]$
 
 The Solow model suggests a natural regression to study the rate of convergence;
 	
@@ -119,7 +119,8 @@ Where ; y ≡ Y/AL  , k ≡ K/AL  and h ≡ H/AL
 The production function in intensive form is :
 $y= k^∝ h^β $ 
 
-Savings:  $s ≡ s_K+s_H $
+Savings: 
+ $s ≡ s_K+s_H $
 
 In steady state k ̇= 0 and k ̇= h= 0 and so 
 
@@ -131,7 +132,7 @@ So    $y = k^∝ h^β$  becomes;    $y^*=((s_K^(1-β) s_H^β)/(δ+n+g))^{∝/(1-
 
 And simplifies to be:
 
-$\frac{((Y(t)){(L(t))})^*=A(0).e^gt=A_0 e^gt  (((s_K^α s_H^β ))/(δ+n+g)^{1/(∝+β)} )^{(α+β)/(1-∝-β)}$
+$((Y(t))/(L(t)))^*=A(0).e^gt=A_0 e^gt  (((s_K^α s_H^β ))/(δ+n+g)^{1/(∝+β)} )^{(α+β)/(1-∝-β)}$
 
 Taking logs on both sides of the equation gives the linear specification:
 $ln(Y/L)^*=lnA(0) + gt-(∝+β)/(1-∝-β) ln(n+g+δ) +  ∝/(1-∝-β)  lns_K + β/(1-∝-β)  lns_H $
