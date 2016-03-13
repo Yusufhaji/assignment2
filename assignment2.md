@@ -5,7 +5,7 @@ Seminar Growth and regional development
 ## Use the Solow model and our dataset to do the following:
 ### Question 1:  Derive the convergence equation.
 
-$lny(t)=lny^* + e^(-λt)  [ lny(0)-lny^*]…………………………………(E.1)$
+$lny(t)=lny^* + e^(-λt)^  [ lny(0)-lny^*]…………………………………(E.1)$
 Where y ≡ Y/AL  is the output per effective worker
 
 Since  y^* is the steady state level of income per effective worker and ; y(t) is the actual value of output per effective worker at time t.
