@@ -117,16 +117,18 @@ $h ̇(t) = s_h y(t)- (n+g+δ)h(t)$
 Where ; y ≡ Y/AL  , k ≡ K/AL  and h ≡ H/AL 
 
 The production function in intensive form is :
+
 $y= k^∝ h^β $ 
 
 Savings: 
- $s ≡ s_K+s_H $
+
+ $s ≡ s_K+s_H$
 
 In steady state k ̇= 0 and k ̇= h= 0 and so 
 
 $k^* = ((s_K^(1-β) s_H^β)/(δ+n+g))^{1/(1-∝-β)}$      and     
 
-$h^* = ((s_K^∝ s_H^(1-∝))/(δ+n+g))^{1/(1-∝-β)}$
+$h^* = ((s_K^∝ s_H^{(1-∝)})/(δ+n+g))^{1/(1-∝-β)}$
 
 So    $y = k^∝ h^β$  becomes;    $y^*=((s_K^(1-β) s_H^β)/(δ+n+g))^{∝/(1-∝-β)} ((s_K^∝ s_H^{1-∝})/(δ+n+g))^{β/(1-∝-β)}$
 
@@ -137,7 +139,9 @@ $((Y(t))/(L(t)))^*=A(0).e^gt=A_0 e^gt  (((s_K^α s_H^β ))/(δ+n+g)^{1/(∝+β)}
 Taking logs on both sides of the equation gives the linear specification:
 $ln(Y/L)^*=lnA(0) + gt-(∝+β)/(1-∝-β) ln(n+g+δ) +  ∝/(1-∝-β)  lns_K + β/(1-∝-β)  lns_H $
 
-MRW(1992) assume $lnA(0)= η_0 + ε $   and normalizing  t=o we get the extended regression equation with human capital as follows:
+MRW(1992) assume $lnA(0)=η_0+ε$   
+
+and normalizing  t=o we get the extended regression equation with human capital as follows:
 
 $ln(Y/L)^*=η_0-(∝+β)/(1-∝-β) ln(n+g+δ)+  ∝/(1-∝-β)  lns_K + β/(1-∝-β)  lns_H + ε$
 
