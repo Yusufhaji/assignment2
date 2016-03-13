@@ -5,7 +5,7 @@ Seminar Growth and regional development
 ## Use the Solow model and our dataset to do the following:
 ### Question 1:  Derive the convergence equation.
 
-$lny(t)=lny^* + e^-λt  [ lny(0)-lny^*]…………………………………(E.1)$
+$lny(t)=lny^* + e^(-λt)  [ lny(0)-lny^*]…………………………………(E.1)$
 Where y ≡ Y/AL  is the output per effective worker
 
 Since  y^* is the steady state level of income per effective worker and ; y(t) is the actual value of output per effective worker at time t.
@@ -52,7 +52,7 @@ Therefore , the parameter governing the speed of convergence is  $λ$ .
 The Solow model takes the rates of savings, population growth and technological progress as exogenous.
 A Cobb-Douglas production function is assumed , so production at time t is given by;
 
-$Y(t) = K(t)^α(A(t)L(t))^(1-α)  ,0<α<1$
+$Y(t) = K(t)^α (A(t)L(t))^(1-α)  ,0<α<1$
 
 L and A are assumed to be exogenous at rates n and g∶ $L(t) = L(0)  e^nt$
 $A(t)= A(0)  e^gt$
