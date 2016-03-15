@@ -70,7 +70,8 @@ $= k ̇(t) = sy(t)- (n+g+δ)k(t)$
 
 and can be seen from the below graph:
 
-![](http://economics.wikia.com/wiki/Solow_Growth_Model?file=Solow.JPG)
+![Figure 1-1](http://economics.wikia.com/wiki/Solow_Growth_Model?file=Solow.JPG "Figure 1-1")
+
 
 In steady state k ̇=0  and so; 
 
