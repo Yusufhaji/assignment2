@@ -59,7 +59,9 @@ $A(t)= A(0)  e^gt$
 
 Defining variables in intensive form: y ≡ Y/AL  , k ≡ K/AL  
 
-Therefore ;$ y = K^α(AL)^{1-α} = k^α = (K/AL)^α  $
+Therefore ;
+
+$ y = K^α(AL)^{1-α} = k^α = (K/AL)^α  $
 $y = k^α$
 
 Capital accumulates and the evolution of capital is governed by:
@@ -67,11 +69,6 @@ Capital accumulates and the evolution of capital is governed by:
 $k ̇(t) = sy(t)- (n+g+δ)k(t)$
 
 $= k ̇(t) = sy(t)- (n+g+δ)k(t)$
-
-and can be seen from the below graph:
-
-![Figure 1-1](http://economics.wikia.com/wiki/Solow_Growth_Model?file=Solow.JPG "Figure 1-1")
-
 
 In steady state k ̇=0  and so; 
 
