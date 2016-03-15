@@ -61,7 +61,7 @@ Defining variables in intensive form: y ≡ Y/AL  , k ≡ K/AL
 
 Therefore ;
 
-$ y = K^α (AL)^{1-α} = k^α = (K/AL)^α  $
+$ y = K^α (AL)^{1-α} = k^α = (K/AL)^α$
 
 $y = k^α$
 
