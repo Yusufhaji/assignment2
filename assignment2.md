@@ -68,6 +68,10 @@ $k ̇(t) = sy(t)- (n+g+δ)k(t)$
 
 $= k ̇(t) = sy(t)- (n+g+δ)k(t)$
 
+and can be seen from the below graph:
+
+![](http://economics.wikia.com/wiki/Solow_Growth_Model?file=Solow.JPG)
+
 In steady state k ̇=0  and so; 
 
 $sk(t)^∝  = (n+g+δ)k(t)$
@@ -146,3 +150,13 @@ and normalizing  t=o we get the extended regression equation with human capital 
 $ln(Y/L)^*=η_0-(∝+β)/(1-∝-β) ln(n+g+δ)+  ∝/(1-∝-β)  lns_K + β/(1-∝-β)  lns_H + ε$
 
 We assume that the rates of saving and population growth are independent of country-specific growth factors shifting the production function. That is, we assume that s and n are independent of ε (the error term). This assumption implies that we can estimate the above equation with Ordinary Least Squares (OLS).
+
+### Question 3:  Estimate the convergence equation in cross-section (i.e. follow the method of Mankiw/Romer/Weil 1992). Give interpretation: is there convergence, is there support for the Solow model?
+
+Before we proceed to the estimation of the regression analysis, it is informative to present the bivariate
+relationships between the growth of income per capita  and its determinants. I present some stylized facts from previous growth convergence literature.
+
+
+
+
+
