@@ -1,3 +1,5 @@
+###Name: Yusuf Hassan Haji        ANR: 180541
+
 Seminar Growth and regional development
 =======
 ## Assignment Empirics: Cross-section and panel-data analysis of national growth experiences in the world.  
@@ -156,7 +158,7 @@ We assume that the rates of saving and population growth are independent of coun
 Before we proceed to the estimation of the regression analysis, it is informative to present the bivariate
 relationships between the growth of income per capita  and its determinants. I present some stylized facts from previous growth convergence literature.
 
-![alt text](/http://postimg.org/image/3rjedktid/to/img.jpg "Title")
+
 
 
 
