@@ -54,14 +54,15 @@ A Cobb-Douglas production function is assumed , so production at time t is given
 
 $Y(t) = K(t)^α (A(t)L(t))^{1-α}  ,0<α<1$
 
-L and A are assumed to be exogenous at rates n and g∶ $L(t) = L(0)  e^nt$
-$A(t)= A(0)  e^gt$
+L and A are assumed to be exogenous at rates n and g∶ $L(t) = L(0)  e^{nt}$
+
+$A(t)= A(0)  e^{gt}$
 
 Defining variables in intensive form: y ≡ Y/AL  , k ≡ K/AL  
 
 Therefore ;
 
-$ y = K^α (AL)^{1-α} = k^α = (K/AL)^α$
+$y = K^α (AL)^{1-α} = k^α = (K/AL)^{α}$
 
 $y = k^α$
 
