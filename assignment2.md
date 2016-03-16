@@ -156,7 +156,7 @@ We assume that the rates of saving and population growth are independent of coun
 Before we proceed to the estimation of the regression analysis, it is informative to present the bivariate
 relationships between the growth of income per capita  and its determinants. I present some stylized facts from previous growth convergence literature.
 
-
+![alt text](/http://postimg.org/image/3rjedktid/62fc5a8e/to/img.jpg "Title")
 
 
 
