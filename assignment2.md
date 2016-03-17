@@ -19,6 +19,10 @@ The Solow model suggests a natural regression to study the rate of convergence;
 	
 $lny(t)= (1-e^{-λt} )  lny^*+ e^{-λt}  lny(0)$
 
+So, poor countries grow faster than richer countries and can be seen from the below figure:
+
+![Figure 1: Conditional convergence](http://www.puertorico-herald.org/images/Convergence/image1.gif)
+
 To Show that (E.1( is equivalent to (E.2) and (E.3) , we take  from (E.1) and show that output converges to its steady state and the time path of output is given by subtracting  lny(0) from both sides . y(0) is income per effective worker at some initial data (year);
 
 $lny(t)- lny(0)  = lny^*- (e^{-λt} )  lny^*+ e^{-λt}  lny(0) - lny(0)$
@@ -76,6 +80,7 @@ $= k ̇(t) = sy(t)- (n+g+δ)k(t)$
 
 In steady state k ̇=0  and so; 
 
+
 $sk(t)^∝  = (n+g+δ)k(t)$
 
 $sk(t)^(∝+1)  = (n+g+δ)$
@@ -83,7 +88,12 @@ $sk(t)^(∝+1)  = (n+g+δ)$
 $k^(∝-1) = ((δ+n+g)/s)^{1/(∝-1)}$
 
 And so the steady state capital per effective worker is : 
+
 $k^*=(s/(δ+n+g))^{1/(1-∝)}$
+
+See the figure below to see the steady state of capital:
+
+![Depicting the steady state capital stock](http://cruel.org/econthought/essays/growth/neoclass/image/solowconv1.gif)
 
 But the central-predictions of the Solow model concern the impact of saving and population growth on real income and so we can derive the steady state output per effective worker : y*
 Since :                   
@@ -155,9 +165,8 @@ We assume that the rates of saving and population growth are independent of coun
 
 ### Question 3:  Estimate the convergence equation in cross-section (i.e. follow the method of Mankiw/Romer/Weil 1992). Give interpretation: is there convergence, is there support for the Solow model?
 
-Before we proceed to the estimation of the regression analysis, it is informative to present the bivariate
-relationships between the growth of income per capita  and its determinants. I present some stylized facts from previous growth convergence literature.
-I begin by first presenting the Solow model in a graphical form. See the figure below
+Before we proceed to the estimation of the regression analysis, it is informative to  present some stylized facts from previous growth convergence literature.
+I begin by first presenting the Solow model in a graphical form and study how it explains how a country can be trapped when it cannot converge and this is the case in many African countries. See the figure below
 
 
 ![](http://cruel.org/econthought/essays/growth/neoclass/image/solowtrap4.gif)
