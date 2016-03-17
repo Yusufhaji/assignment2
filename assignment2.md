@@ -166,7 +166,7 @@ We assume that the rates of saving and population growth are independent of coun
 ### Question 3:  Estimate the convergence equation in cross-section (i.e. follow the method of Mankiw/Romer/Weil 1992). Give interpretation: is there convergence, is there support for the Solow model?
 
 Before we proceed to the estimation of the regression analysis, it is informative to  present some stylized facts from previous growth convergence literature.
-I begin by first presenting the Solow model in a graphical form and study how it explains how a country can be trapped when it cannot converge and this is the case in many African countries. See the figure below
+I present the Solow model in a graphical form and study how it explains how a country can be trapped when it cannot converge and this is the case in many African countries. See the figure below
 
 ![Figure 3](http://cruel.org/econthought/essays/growth/neoclass/image/solowtrap4.gif)
 
