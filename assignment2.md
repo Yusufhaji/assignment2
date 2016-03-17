@@ -93,7 +93,7 @@ $k^*=(s/(δ+n+g))^{1/(1-∝)}$
 
 See the figure below to see the steady state of capital:
 
-![Depicting the steady state capital stock](http://cruel.org/econthought/essays/growth/neoclass/image/solowconv1.gif)
+![Figue 2](http://cruel.org/econthought/essays/growth/neoclass/image/solowconv1.gif)
 
 But the central-predictions of the Solow model concern the impact of saving and population growth on real income and so we can derive the steady state output per effective worker : y*
 Since :                   
@@ -168,8 +168,8 @@ We assume that the rates of saving and population growth are independent of coun
 Before we proceed to the estimation of the regression analysis, it is informative to  present some stylized facts from previous growth convergence literature.
 I begin by first presenting the Solow model in a graphical form and study how it explains how a country can be trapped when it cannot converge and this is the case in many African countries. See the figure below
 
+![Figure 3](http://cruel.org/econthought/essays/growth/neoclass/image/solowtrap4.gif)
 
-![](http://cruel.org/econthought/essays/growth/neoclass/image/solowtrap4.gif)
 
 
 
