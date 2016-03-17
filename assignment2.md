@@ -157,7 +157,10 @@ We assume that the rates of saving and population growth are independent of coun
 
 Before we proceed to the estimation of the regression analysis, it is informative to present the bivariate
 relationships between the growth of income per capita  and its determinants. I present some stylized facts from previous growth convergence literature.
+I begin by first presenting the Solow model in a graphical form. See the figure below
 
+
+![](http://cruel.org/econthought/essays/growth/neoclass/image/solowtrap4.gif)
 
 
 
